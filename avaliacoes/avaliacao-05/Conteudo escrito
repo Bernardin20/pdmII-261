@@ -1,0 +1,117 @@
+TEMA: Jogos de Linguagem (Ludwig Wittgenstein)
+
+1. Conceito
+
+Os Jogos de Linguagem são um conceito desenvolvido pelo filósofo Ludwig Wittgenstein, especialmente em sua obra "Investigações Filosóficas". Segundo ele, a linguagem não possui um significado fixo e universal. O significado das palavras depende do seu uso em contextos específicos.
+
+Wittgenstein compara o uso da linguagem a jogos, pois cada contexto possui regras próprias. Assim, falar uma língua é participar de uma prática social. O sentido das palavras emerge dessas práticas.
+
+Exemplo:
+A palavra “executar” pode ter diferentes significados dependendo do contexto:
+
+* Na música: tocar uma peça;
+* Na programação: rodar um código;
+* No direito: cumprir uma sentença.
+
+Cada uso pertence a um jogo de linguagem diferente.
+
+---
+
+2. Uso de Jogos de Linguagem no Ensino
+
+No ensino, os jogos de linguagem mostram que aprender não é apenas memorizar definições, mas saber usar conceitos em situações reais.
+
+Aplicações:
+
+* Aprendizagem contextualizada: o conteúdo é ensinado dentro de situações práticas.
+* Construção de significado: o aluno aprende praticando.
+* Interação social: o conhecimento é construído por meio do diálogo.
+* Ensino ativo: atividades práticas inserem o aluno no contexto de uso.
+
+Assim, aprender significa participar do jogo de linguagem próprio de cada área do conhecimento.
+
+---
+
+3. Exemplo na Programação Orientada a Objetos (POO)
+
+Na Programação Orientada a Objetos, existe um jogo de linguagem técnico onde termos possuem significados específicos:
+
+* Classe
+* Objeto
+* Método
+* Herança
+* Encapsulamento
+
+Esses termos só fazem sentido dentro do contexto da programação.
+
+Exemplo em Python:
+
+class Veiculo:
+def **init**(self, marca):
+self.marca = marca
+
+```
+def mover(self):
+    print("O veículo está se movendo")
+```
+
+class Carro(Veiculo):
+def mover(self):
+print("O carro está dirigindo")
+
+meu_carro = Carro("Toyota")
+meu_carro.mover()
+
+Interpretação:
+
+* Classe: modelo
+* Objeto: instância da classe
+* Herança: reutilização de código
+
+O aluno aprende esses conceitos através do uso prático no código.
+
+---
+
+EVIDÊNCIAS
+
+1. Texto explicativo
+
+Os jogos de linguagem mostram que o significado das palavras depende do uso em práticas sociais. No ensino, isso implica que aprender um conceito é dominar seu uso em contextos reais. Na programação orientada a objetos, termos técnicos fazem parte de um jogo de linguagem específico, compreendido por meio da prática.
+
+---
+
+2. Documentação de um Jogo de Linguagem
+
+Nome: Modelagem de Veículos em POO
+
+Objetivo:
+Ensinar conceitos de classe, objeto e herança.
+
+Participantes:
+Alunos iniciantes em programação.
+
+Regras:
+
+1. Definir classes como modelos;
+2. Criar objetos a partir das classes;
+3. Utilizar métodos;
+4. Aplicar herança.
+
+Vocabulário:
+
+* Classe
+* Objeto
+* Método
+* Instância
+* Herança
+
+Práticas:
+
+* Escrever código
+* Executar programas
+* Corrigir erros
+* Discutir soluções
+
+Critério de sucesso:
+O aluno consegue aplicar corretamente os conceitos e explicar o funcionamento do código.
+
